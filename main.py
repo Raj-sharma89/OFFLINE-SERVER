@@ -1,4 +1,4 @@
-#ENCODED BY : RAJ MISHRA
+#ENCODED BY : HASSAN RAJPUT
 #ENCRYPTION : Py3 MARSHAL+BASE64
 #GITHUB : https://github.com/HassanRajput0
 #----------------------------------------------
