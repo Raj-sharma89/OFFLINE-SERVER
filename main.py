@@ -142,8 +142,7 @@ def main():
 
       # Send the initial message to the specified ID using all tokens
 
-  # Send the message with the end to end encrypted chat
-   send_message_from_file()   
+  # Send the message with the end to end encrypted chat 
  
       # Then, continue with the message sending loop
       send_messages_from_file()
